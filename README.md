@@ -73,7 +73,7 @@ I would add the following two visuals to better understand user behavior:
 
 My Tableau story can be accessed via:
 
-[link to dashboard](https://public.tableau.com/app/profile/saeed.al.yacoubi/viz/Challenge14_16218959103540/CheckoutTimesforUsers "link to dashboard")
+[link to dashboard](https://public.tableau.com/app/profile/saeed.al.yacoubi/viz/Challenge14_16218959103540/NYCBikesharingAnalysis "Bikesharing Analysis")
 
 ---
 
