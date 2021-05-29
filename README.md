@@ -69,6 +69,12 @@ I would add the following two visuals to better understand user behavior:
 - Number of trips by user's age. A bar chart sliced by gender
 - Average trip duration by user's age and gender
 
+# Tableau Public link
+
+My Tableau story can be accessed via:
+
+[link to dashboard](https://public.tableau.com/app/profile/saeed.al.yacoubi/viz/Challenge14_16218959103540/CheckoutTimesforUsers "link to dashboard")
+
 ---
 
 ![Saeed Al-Yacoubi](./Resources/qr-code.png)
